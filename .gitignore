@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.tmp
+
+# рабочие файлы, в репозиторий не нужны
+build/
+*.md
+*.html
+**/diagrams/*.mmd
+**/diagrams/*-crowsfoot.png

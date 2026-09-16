@@ -1,0 +1,454 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6945 5170" width="6945" height="5170" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="3472" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#000000">Задание 2.2. Интернет-магазин (нотация Чена)</text>
+<line x1="1310.0" y1="2866.0" x2="1210.0" y2="2591.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="990.0" y2="2651.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="790.0" y2="2741.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="550.0" y2="2831.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="550.0" y2="2991.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="790.0" y2="3121.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="990.0" y2="3211.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="1215.0" y2="3291.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2866.0" x2="1430.0" y2="3391.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="550.0" y1="2831.0" x2="160.0" y2="2738.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="550.0" y1="2831.0" x2="160.0" y2="2828.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="550.0" y1="2831.0" x2="160.0" y2="2918.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="550.0" y1="2991.0" x2="160.0" y2="3048.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="550.0" y1="2991.0" x2="160.0" y2="3138.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="1210.0" y2="1211.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="990.0" y2="1291.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="790.0" y2="1381.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="555.0" y2="1491.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="795.0" y2="1611.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="997.5" y2="1711.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="1466.0" x2="1210.0" y2="1791.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="555.0" y1="1491.0" x2="160.0" y2="1238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="555.0" y1="1491.0" x2="160.0" y2="1328.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="555.0" y1="1491.0" x2="160.0" y2="1418.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="555.0" y1="1491.0" x2="160.0" y2="1508.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="555.0" y1="1491.0" x2="165.0" y2="1598.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="555.0" y1="1491.0" x2="165.0" y2="1688.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="4840.0" y2="3141.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5050.0" y2="3221.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5265.0" y2="3311.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5470.0" y2="3411.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5680.0" y2="3511.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5850.0" y2="3631.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5930.0" y2="3771.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5810.0" y2="3971.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5610.0" y2="4071.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5390.0" y2="4171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="5147.5" y2="4251.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2866.0" x2="4892.5" y2="4311.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5930.0" y1="3771.0" x2="6180.0" y2="3878.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5930.0" y1="3771.0" x2="6180.0" y2="3968.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5930.0" y1="3771.0" x2="6180.0" y2="4058.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="1466.0" x2="4340.0" y2="1241.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="1466.0" x2="4560.0" y2="1171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="1466.0" x2="4780.0" y2="1241.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6110.0" y1="2866.0" x2="6440.0" y2="2591.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6110.0" y1="2866.0" x2="6640.0" y2="2691.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6110.0" y1="2866.0" x2="6795.0" y2="2831.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6110.0" y1="2866.0" x2="6802.5" y2="2991.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6110.0" y1="2866.0" x2="6645.0" y2="3131.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6110.0" y1="2866.0" x2="6437.5" y2="3251.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6437.5" y1="3251.0" x2="6680.0" y2="3388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6437.5" y1="3251.0" x2="6680.0" y2="3478.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="6437.5" y1="3251.0" x2="6685.0" y2="3568.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="2390.0" y2="1091.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="2590.0" y2="991.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="2790.0" y2="911.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="2997.5" y2="881.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="3200.0" y2="911.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="3400.0" y2="991.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="3607.5" y2="1081.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="3800.0" y2="1171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="3990.0" y2="1261.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="2620.0" y2="593.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="1466.0" x2="3300.0" y2="593.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2090.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2270.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2450.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2630.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2090.0" y2="388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2270.0" y2="388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2620.0" y1="593.0" x2="2450.0" y2="388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3190.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3370.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3550.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3730.0" y2="238.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3190.0" y2="388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3370.0" y2="388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3300.0" y1="593.0" x2="3550.0" y2="388.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3245.0" y2="3171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3440.0" y2="3171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3645.0" y2="3171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3850.0" y2="3171.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3340.0" y2="3291.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3547.5" y2="3291.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2910.0" y1="2866.0" x2="3755.0" y2="3291.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="4466.0" x2="3695.0" y2="4691.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="4466.0" x2="3450.0" y2="4791.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="4466.0" x2="3175.0" y2="4881.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="4466.0" x2="3610.0" y2="4941.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="4466.0" x2="4110.0" y2="4791.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3610.0" y1="4941.0" x2="3410.0" y2="5088.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3610.0" y1="4941.0" x2="3625.0" y2="5088.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2866.0" x2="5080.0" y2="2531.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2866.0" x2="5292.5" y2="2451.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2866.0" x2="5500.0" y2="2511.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2866.0" x2="5700.0" y2="2591.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1890.0" y2="4031.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1690.0" y2="4141.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1510.0" y2="4261.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1510.0" y2="4391.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1690.0" y2="4511.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1912.5" y2="4611.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4230.0" y2="3391.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4440.0" y2="3501.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4602.5" y2="3641.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4532.5" y2="3791.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4360.0" y2="3911.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4175.0" y2="4001.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2110.0" y1="2166.0" x2="1310.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2111.3" y1="2167.5" x2="2911.3" y2="1467.5" stroke="#000000" stroke-width="1.3"/>
+<line x1="2108.7" y1="2164.5" x2="2908.7" y2="1464.5" stroke="#000000" stroke-width="1.3"/>
+<line x1="1310.0" y1="2166.0" x2="1310.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1312.0" y1="2166.0" x2="1312.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="1308.0" y1="2166.0" x2="1308.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2110.0" y1="1466.0" x2="2910.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2110.0" y1="1466.0" x2="1310.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2110.0" y1="866.0" x2="2910.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2110.0" y1="866.0" x2="1310.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2912.0" y1="2166.0" x2="2912.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2908.0" y1="2166.0" x2="2908.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2908.0" y1="2166.0" x2="2908.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2912.0" y1="2166.0" x2="2912.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3710.0" y1="2864.0" x2="2910.0" y2="2864.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3710.0" y1="2868.0" x2="2910.0" y2="2868.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3710.0" y1="2866.0" x2="4510.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4508.0" y1="2166.0" x2="4508.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4512.0" y1="2166.0" x2="4512.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="4510.0" y1="2166.0" x2="4510.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="1466.0" x2="4510.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="1466.0" x2="4510.0" y2="1466.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2866.0" x2="6110.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2864.0" x2="4510.0" y2="2864.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="5310.0" y1="2868.0" x2="4510.0" y2="2868.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="1310.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="2510.0" y1="3666.0" x2="4510.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="4510.0" y2="2866.0" stroke="#000000" stroke-width="1.3"/>
+<line x1="3910.0" y1="3666.0" x2="3910.0" y2="4466.0" stroke="#000000" stroke-width="1.3"/>
+<rect x="1682.2" y="2508.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="1710.0" y="2519.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N)</text>
+<rect x="2461.8" y="1808.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="2510.0" y="1819.5" text-anchor="middle" font-size="11" fill="#000000">N (1,1) TOTAL</text>
+<rect x="1282.2" y="2508.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="1310.0" y="2519.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N)</text>
+<rect x="1261.8" y="1808.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="1310.0" y="1819.5" text-anchor="middle" font-size="11" fill="#000000">N (1,1) TOTAL</text>
+<rect x="2482.2" y="1458.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="2510.0" y="1469.5" text-anchor="middle" font-size="11" fill="#000000">N (0,1)</text>
+<rect x="1682.2" y="1458.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="1710.0" y="1469.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N)</text>
+<rect x="2482.2" y="1158.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="2510.0" y="1169.5" text-anchor="middle" font-size="11" fill="#000000">N (0,1)</text>
+<rect x="1682.2" y="1158.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="1710.0" y="1169.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N)</text>
+<rect x="2861.8" y="1808.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="2910.0" y="1819.5" text-anchor="middle" font-size="11" fill="#000000">1 (1,N) TOTAL</text>
+<rect x="2861.8" y="2508.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="2910.0" y="2519.5" text-anchor="middle" font-size="11" fill="#000000">N (1,1) TOTAL</text>
+<rect x="3261.8" y="2858.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="3310.0" y="2869.5" text-anchor="middle" font-size="11" fill="#000000">N (1,1) TOTAL</text>
+<rect x="4082.2" y="2858.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4110.0" y="2869.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N)</text>
+<rect x="4461.8" y="2508.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4510.0" y="2519.5" text-anchor="middle" font-size="11" fill="#000000">N (1,1) TOTAL</text>
+<rect x="4482.2" y="1808.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4510.0" y="1819.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N)</text>
+<rect x="4858.4" y="1458.0" width="103.2" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4910.0" y="1469.5" text-anchor="middle" font-size="11" fill="#000000">1 (0,N) parent</text>
+<rect x="4861.8" y="1458.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4910.0" y="1469.5" text-anchor="middle" font-size="11" fill="#000000">N (0,1) child</text>
+<rect x="5682.2" y="2858.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="5710.0" y="2869.5" text-anchor="middle" font-size="11" fill="#000000">M (0,N)</text>
+<rect x="4861.8" y="2858.0" width="96.4" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4910.0" y="2869.5" text-anchor="middle" font-size="11" fill="#000000">N (1,N) TOTAL</text>
+<rect x="1882.2" y="3258.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="1910.0" y="3269.5" text-anchor="middle" font-size="11" fill="#000000">M (0,N)</text>
+<rect x="3482.2" y="3258.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="3510.0" y="3269.5" text-anchor="middle" font-size="11" fill="#000000">N (0,N)</text>
+<rect x="4182.2" y="3258.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="4210.0" y="3269.5" text-anchor="middle" font-size="11" fill="#000000">M (0,N)</text>
+<rect x="3882.2" y="4058.0" width="55.6" height="15" fill="#ffffff" opacity="0.92"/>
+<text x="3910.0" y="4069.5" text-anchor="middle" font-size="11" fill="#000000">N (0,N)</text>
+<rect x="60.0" y="196.0" width="700.0" height="200.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="410.0" y="279.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#000000">Обозначения: прямоугольник — сильная сущность; двойной прямоугольник — слабая сущность; ромб — связь; двойной</text>
+<text x="410.0" y="293.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#000000">ромб — идентифицирующая связь; овал — атрибут; двойной овал — многозначный атрибут; пунктирный овал —</text>
+<text x="410.0" y="307.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#000000">производный атрибут; подчёркивание — ключ; пунктирное подчёркивание — частичный ключ; одинарная линия —</text>
+<text x="410.0" y="321.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#000000">частичное участие; двойная линия — полное участие.</text>
+<rect x="1210.0" y="2826.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1310.0" y="2871.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">CUSTOMER</text>
+<rect x="2810.0" y="1426.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2910.0" y="1471.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">ORDER</text>
+<rect x="4410.0" y="2826.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4510.0" y="2871.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">PRODUCT</text>
+<rect x="4410.0" y="1426.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4510.0" y="1471.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">CATEGORY</text>
+<rect x="6010.0" y="2826.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6110.0" y="2871.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">VENDOR</text>
+<rect x="3810.0" y="4426.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3910.0" y="4471.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">WAREHOUSE</text>
+<rect x="1210.0" y="1426.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<rect x="1215.0" y="1431.0" width="190.0" height="70.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="1310.0" y="1471.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">ADDRESS</text>
+<rect x="2810.0" y="2826.0" width="200.0" height="80.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<rect x="2815.0" y="2831.0" width="190.0" height="70.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="2910.0" y="2871.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">ORDER_ITEM</text>
+<polygon points="2110.0,2116.0 2200.0,2166.0 2110.0,2216.0 2020.0,2166.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2110.0" y="2170.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PLACES</text>
+<polygon points="1310.0,2116.0 1400.0,2166.0 1310.0,2216.0 1220.0,2166.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<polygon points="1310.0,2121.0 1395.0,2166.0 1310.0,2211.0 1225.0,2166.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="1310.0" y="2170.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">HAS_ADDRESS</text>
+<polygon points="2110.0,1416.0 2200.0,1466.0 2110.0,1516.0 2020.0,1466.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2110.0" y="1470.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">SHIP_TO</text>
+<polygon points="2110.0,816.0 2200.0,866.0 2110.0,916.0 2020.0,866.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2110.0" y="870.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">BILL_TO</text>
+<polygon points="2910.0,2116.0 3000.0,2166.0 2910.0,2216.0 2820.0,2166.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<polygon points="2910.0,2121.0 2995.0,2166.0 2910.0,2211.0 2825.0,2166.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="2910.0" y="2170.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CONTAINS</text>
+<polygon points="3710.0,2816.0 3800.0,2866.0 3710.0,2916.0 3620.0,2866.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3710.0" y="2870.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">FOR_PRODUCT</text>
+<polygon points="4510.0,2116.0 4600.0,2166.0 4510.0,2216.0 4420.0,2166.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4510.0" y="2170.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">BELONGS_TO</text>
+<polygon points="5310.0,1416.0 5400.0,1466.0 5310.0,1516.0 5220.0,1466.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5310.0" y="1470.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">SUBCATEGORY_OF</text>
+<polygon points="5310.0,2816.0 5400.0,2866.0 5310.0,2916.0 5220.0,2866.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5310.0" y="2870.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">SUPPLIES</text>
+<polygon points="2510.0,3616.0 2600.0,3666.0 2510.0,3716.0 2420.0,3666.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2510.0" y="3670.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">REVIEWS</text>
+<polygon points="3910.0,3616.0 4000.0,3666.0 3910.0,3716.0 3820.0,3666.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3910.0" y="3670.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">STOCKED_AT</text>
+<ellipse cx="1210.0" cy="2591.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1210.0" y="2595.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000" text-decoration="underline">CustomerID</text>
+<ellipse cx="990.0" cy="2651.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="990.0" y="2655.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Email (AK)</text>
+<ellipse cx="790.0" cy="2741.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="790.0" y="2745.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PasswordHash</text>
+<ellipse cx="550.0" cy="2831.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="550.0" y="2835.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">FullName</text>
+<ellipse cx="160.0" cy="2738.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="2742.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">FirstName</text>
+<ellipse cx="160.0" cy="2828.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="2832.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">MiddleName</text>
+<ellipse cx="160.0" cy="2918.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="2922.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">LastName</text>
+<ellipse cx="550.0" cy="2991.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<ellipse cx="550.0" cy="2991.0" rx="75.0" ry="20.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="550.0" y="2995.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Phone</text>
+<ellipse cx="160.0" cy="3048.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="3052.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PhoneNumber</text>
+<ellipse cx="160.0" cy="3138.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="3142.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PhoneType</text>
+<ellipse cx="790.0" cy="3121.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="790.0" y="3125.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">DateOfBirth</text>
+<ellipse cx="990.0" cy="3211.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="990.0" y="3215.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Age</text>
+<ellipse cx="1215.0" cy="3291.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1215.0" y="3295.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">RegistrationDate</text>
+<ellipse cx="1430.0" cy="3391.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1430.0" y="3395.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">AccountStatus</text>
+<ellipse cx="1210.0" cy="1211.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1210.0" y="1215.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">AddressNo</text>
+<ellipse cx="990.0" cy="1291.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="990.0" y="1295.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Label</text>
+<ellipse cx="790.0" cy="1381.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="790.0" y="1385.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Recipient</text>
+<ellipse cx="555.0" cy="1491.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="555.0" y="1495.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PostalAddress</text>
+<ellipse cx="160.0" cy="1238.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="1242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Line1</text>
+<ellipse cx="160.0" cy="1328.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="1332.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Line2</text>
+<ellipse cx="160.0" cy="1418.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="1422.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">City</text>
+<ellipse cx="160.0" cy="1508.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="160.0" y="1512.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Region</text>
+<ellipse cx="165.0" cy="1598.0" rx="75.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="165.0" y="1602.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PostalCode</text>
+<ellipse cx="165.0" cy="1688.0" rx="75.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="165.0" y="1692.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CountryCode</text>
+<ellipse cx="795.0" cy="1611.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="795.0" y="1615.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">IsDefaultBilling</text>
+<ellipse cx="997.5" cy="1711.0" rx="87.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="997.5" y="1715.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">IsDefaultShipping</text>
+<ellipse cx="1210.0" cy="1791.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1210.0" y="1795.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">IsArchived</text>
+<ellipse cx="4840.0" cy="3141.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4840.0" y="3145.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000" text-decoration="underline">ProductID</text>
+<ellipse cx="5050.0" cy="3221.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5050.0" y="3225.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">SKU (AK)</text>
+<ellipse cx="5265.0" cy="3311.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5265.0" y="3315.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ProductName</text>
+<ellipse cx="5470.0" cy="3411.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5470.0" y="3415.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Description</text>
+<ellipse cx="5680.0" cy="3511.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5680.0" y="3515.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ListPrice</text>
+<ellipse cx="5850.0" cy="3631.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5850.0" y="3635.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">WeightKg</text>
+<ellipse cx="5930.0" cy="3771.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5930.0" y="3775.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Dimensions</text>
+<ellipse cx="6180.0" cy="3878.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6180.0" y="3882.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">LengthCm</text>
+<ellipse cx="6180.0" cy="3968.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6180.0" y="3972.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">WidthCm</text>
+<ellipse cx="6180.0" cy="4058.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6180.0" y="4062.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">HeightCm</text>
+<ellipse cx="5810.0" cy="3971.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<ellipse cx="5810.0" cy="3971.0" rx="75.0" ry="20.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="5810.0" y="3975.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Tags</text>
+<ellipse cx="5610.0" cy="4071.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5610.0" y="4075.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">DateAdded</text>
+<ellipse cx="5390.0" cy="4171.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5390.0" y="4175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">IsActive</text>
+<ellipse cx="5147.5" cy="4251.0" rx="87.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="5147.5" y="4255.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">AverageRating</text>
+<ellipse cx="4892.5" cy="4311.0" rx="82.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="4892.5" y="4315.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ReviewCount</text>
+<ellipse cx="4340.0" cy="1241.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4340.0" y="1245.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000" text-decoration="underline">CategoryID</text>
+<ellipse cx="4560.0" cy="1171.0" rx="90.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4560.0" y="1175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CategoryName (AK)</text>
+<ellipse cx="4780.0" cy="1241.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4780.0" y="1245.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Description</text>
+<ellipse cx="6440.0" cy="2591.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6440.0" y="2595.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000" text-decoration="underline">VendorID</text>
+<ellipse cx="6640.0" cy="2691.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6640.0" y="2695.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">VendorName</text>
+<ellipse cx="6795.0" cy="2831.0" rx="75.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6795.0" y="2835.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">TaxID (AK)</text>
+<ellipse cx="6802.5" cy="2991.0" rx="82.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6802.5" y="2995.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ContactEmail</text>
+<ellipse cx="6645.0" cy="3131.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<ellipse cx="6645.0" cy="3131.0" rx="80.0" ry="20.0" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="6645.0" y="3135.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ContactPhone</text>
+<ellipse cx="6437.5" cy="3251.0" rx="87.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6437.5" y="3255.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">VendorAddress</text>
+<ellipse cx="6680.0" cy="3388.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6680.0" y="3392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Street</text>
+<ellipse cx="6680.0" cy="3478.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6680.0" y="3482.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">City</text>
+<ellipse cx="6685.0" cy="3568.0" rx="75.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="6685.0" y="3572.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CountryCode</text>
+<ellipse cx="2390.0" cy="1091.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2390.0" y="1095.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000" text-decoration="underline">OrderID</text>
+<ellipse cx="2590.0" cy="991.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2590.0" y="995.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">OrderDate</text>
+<ellipse cx="2790.0" cy="911.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2790.0" y="915.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">OrderStatus</text>
+<ellipse cx="2997.5" cy="881.0" rx="87.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2997.5" y="885.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PaymentMethod</text>
+<ellipse cx="3200.0" cy="911.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3200.0" y="915.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Currency</text>
+<ellipse cx="3400.0" cy="991.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3400.0" y="995.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ShippingFee</text>
+<ellipse cx="3607.5" cy="1081.0" rx="87.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3607.5" y="1085.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">TrackingNumber</text>
+<ellipse cx="3800.0" cy="1171.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="3800.0" y="1175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">OrderTotal</text>
+<ellipse cx="3990.0" cy="1261.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="3990.0" y="1265.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ItemCount</text>
+<ellipse cx="2620.0" cy="593.0" rx="90.0" ry="27.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2620.0" y="597.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ShipToSnapshot</text>
+<ellipse cx="3300.0" cy="593.0" rx="90.0" ry="27.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3300.0" y="597.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">BillToSnapshot</text>
+<ellipse cx="2090.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2090.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Recipient</text>
+<ellipse cx="2270.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2270.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Line1</text>
+<ellipse cx="2450.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2450.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Line2</text>
+<ellipse cx="2630.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2630.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">City</text>
+<ellipse cx="2090.0" cy="388.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2090.0" y="392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Region</text>
+<ellipse cx="2270.0" cy="388.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2270.0" y="392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PostalCode</text>
+<ellipse cx="2450.0" cy="388.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="2450.0" y="392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CountryCode</text>
+<ellipse cx="3190.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3190.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Recipient</text>
+<ellipse cx="3370.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3370.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Line1</text>
+<ellipse cx="3550.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3550.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Line2</text>
+<ellipse cx="3730.0" cy="238.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3730.0" y="242.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">City</text>
+<ellipse cx="3190.0" cy="388.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3190.0" y="392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Region</text>
+<ellipse cx="3370.0" cy="388.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3370.0" y="392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">PostalCode</text>
+<ellipse cx="3550.0" cy="388.0" rx="80.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3550.0" y="392.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CountryCode</text>
+<ellipse cx="3245.0" cy="3171.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3245.0" y="3175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">LineNumber</text>
+<ellipse cx="3440.0" cy="3171.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3440.0" y="3175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Quantity</text>
+<ellipse cx="3645.0" cy="3171.0" rx="95.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3645.0" y="3175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">UnitPriceAtOrderTime</text>
+<ellipse cx="3850.0" cy="3171.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3850.0" y="3175.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">DiscountPct</text>
+<ellipse cx="3340.0" cy="3291.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3340.0" y="3295.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">TaxRatePct</text>
+<ellipse cx="3547.5" cy="3291.0" rx="97.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3547.5" y="3295.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ProductNameSnapshot</text>
+<ellipse cx="3755.0" cy="3291.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="3755.0" y="3295.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">LineTotal</text>
+<ellipse cx="3695.0" cy="4691.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3695.0" y="4695.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000" text-decoration="underline">WarehouseID</text>
+<ellipse cx="3450.0" cy="4791.0" rx="90.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3450.0" y="4795.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">WarehouseName</text>
+<ellipse cx="3175.0" cy="4881.0" rx="95.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3175.0" y="4885.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">WarehouseCode (AK)</text>
+<ellipse cx="3610.0" cy="4941.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3610.0" y="4945.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Location</text>
+<ellipse cx="3410.0" cy="5088.0" rx="70.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3410.0" y="5092.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">City</text>
+<ellipse cx="3625.0" cy="5088.0" rx="75.0" ry="22.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="3625.0" y="5092.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CountryCode</text>
+<ellipse cx="4110.0" cy="4791.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4110.0" y="4795.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">CapacityM3</text>
+<ellipse cx="5080.0" cy="2531.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5080.0" y="2535.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">SupplyPrice</text>
+<ellipse cx="5292.5" cy="2451.0" rx="82.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5292.5" y="2455.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">LeadTimeDays</text>
+<ellipse cx="5500.0" cy="2511.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5500.0" y="2515.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">VendorSKU</text>
+<ellipse cx="5700.0" cy="2591.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="5700.0" y="2595.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">IsPreferred</text>
+<ellipse cx="1890.0" cy="4031.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1890.0" y="4035.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">Rating</text>
+<ellipse cx="1690.0" cy="4141.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1690.0" y="4145.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ReviewTitle</text>
+<ellipse cx="1510.0" cy="4261.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1510.0" y="4265.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ReviewText</text>
+<ellipse cx="1510.0" cy="4391.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1510.0" y="4395.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ReviewDate</text>
+<ellipse cx="1690.0" cy="4511.0" rx="90.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1690.0" y="4515.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">VerifiedPurchase</text>
+<ellipse cx="1912.5" cy="4611.0" rx="82.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="1912.5" y="4615.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">HelpfulVotes</text>
+<ellipse cx="4230.0" cy="3391.0" rx="90.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4230.0" y="3395.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">QuantityOnHand</text>
+<ellipse cx="4440.0" cy="3501.0" rx="90.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4440.0" y="3505.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">QuantityReserved</text>
+<ellipse cx="4602.5" cy="3641.0" rx="92.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3" stroke-dasharray="6 4"/>
+<text x="4602.5" y="3645.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">QuantityAvailable</text>
+<ellipse cx="4532.5" cy="3791.0" rx="82.5" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4532.5" y="3795.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">ReorderLevel</text>
+<ellipse cx="4360.0" cy="3911.0" rx="80.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4360.0" y="3915.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">BinLocation</text>
+<ellipse cx="4175.0" cy="4001.0" rx="85.0" ry="25.0" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="4175.0" y="4005.2" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#000000">LastStockTake</text>
+</svg>
